@@ -1,23 +1,6 @@
 code1 = ("EULJI UNIVERSITY")
 code2 = ("IN SEONGNAM")
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 print(type(code1))
 print(type(code2))
 
